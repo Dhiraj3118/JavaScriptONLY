@@ -14,7 +14,12 @@ Feel free to create an issue about what topic you want to add explanations or co
 
 ---
 ### Contributors💻:
-* [sohamsshah](https://github.com/sohamsshah)
+As always, thanks to our amazing contributors who are making the world fall in love with JavaScript 💛!    
+
+<a href="https://github.com/sohamsshah/JavaScriptONLY/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sohamsshah/JavaScriptONLY" />
+</a>
+
 ---
 
 
