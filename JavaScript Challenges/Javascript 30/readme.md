@@ -1,8 +1,8 @@
-#30 Days of JavaScript
+# 30 Days of JavaScript
 
 Want to learn new and intresting things of JavaScript and become an Ace of JavaScript. Start this 30 Days of JavaScript Challenge by WesBos.
 
-##Let's have a look at the content: 
+## Let's have a look at the content: 
 
 1. Day 1 - JS Drum Kit :  
 2. Day 2 - JS Analog Clock :
